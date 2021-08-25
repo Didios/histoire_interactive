@@ -1,0 +1,1 @@
+#0FalseVers Où ?/ 1  /#1/ 2  /#2!#1FalseContinuer ou pas ?/ Oui  /#2/ Non  /#stop!#2FalseQue veut-tu faire ?/ Continuer  /#1/ Arrêter  /#stop!#stopFalseQuoi ? Déjà.....!
