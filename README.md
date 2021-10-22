@@ -19,4 +19,4 @@ le texte principal sur plusieurs ligne
 !         indique la fin de la partie
 
 A terme, des images pourront êtres intégrés aux histoire.
-Le système de création de labyrinthe n'est pas des plus beaux mais est parfaitement fonctionnels
+Le système de création d'histoire depuis le logiciel n'est pas des plus beaux mais est parfaitement fonctionnels
